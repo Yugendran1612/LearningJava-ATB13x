@@ -5,7 +5,7 @@ package ex_04_TypeCasting;
 public class Lab_04_1_Implicit_Widening {
          public static void main(String[] args){
               int A = 100;
-              double A1 = (double)A;
+              double A1 = (double) A;
               System.out.println(A1);
          }
 }
